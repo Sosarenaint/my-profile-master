@@ -26,7 +26,7 @@ When not working on a project or thinking about coding, I would most likely be p
 
 - 👨🏾‍💻 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Javascript, React, Vue, Web Development in general
-- 📫 How to reach me: DM [@easybuoy](https://www.linkedin.com/in/samson-sanyaolu/) || Email: samsonosanyaolu@gmail.com
+- 📫 How to reach me: DM [@samsonosanyaolu](https://www.linkedin.com/in/samson-sanyaolu/) || Email: samsonosanyaolu@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play Musical Instruments (Drums, Piano and Guitar)
 
